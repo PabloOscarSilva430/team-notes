@@ -14,3 +14,13 @@ notes = {
 def add_note(title,body):
     with open("data/notes.json", "a") as file:
         file.write(notes)
+
+#list_notes() y find_notes(query).
+#CLI: list, search "palabra".
+#Branch/PR feature/3-listar-buscar.
+
+def list_notes():
+    pass
+def find_notes():
+    pass
+
