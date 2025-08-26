@@ -1,0 +1,16 @@
+# •	Función add_note(title, body) en app/notes.py que agrega un dict {id, title, body,
+# •	created_at} a data/notes.json.
+# •	CLI python -m app.cli add "Titulo" "Contenido".
+# •	Branch y PR:
+
+notes = {
+    "id":"",
+    "title":"",
+    "body":"",
+    "created_at":""
+}
+
+
+def add_note(title,body):
+    with open("data/notes.json", "a") as file:
+        file.write(notes)
