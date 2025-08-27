@@ -28,3 +28,5 @@ def list_notes():
 def find_notes():
     pass
 
+def delete_notes():
+    pass
