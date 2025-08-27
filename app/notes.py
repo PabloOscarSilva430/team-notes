@@ -18,6 +18,10 @@ def add_note(title,body):
 #list_notes() y find_notes(query).
 #CLI: list, search "palabra".
 #Branch/PR feature/3-listar-buscar.
+# Issue #5 Pruebas (Dev C)
+# Pruebas mínimas de add_note y list_notes con pytest.
+# Branch/PR feature/5-tests.
+
 
 def list_notes():
     pass
