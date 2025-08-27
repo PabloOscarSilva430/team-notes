@@ -30,7 +30,13 @@ Comandos CLI
     python -m app.cli delete
 
 
-Ejemplo de uso
+# Ejemplo de uso
+
+## Uso
+## El uso de esta seccion es modificada por devMonasterio
+
+## uso 
+Esta es la seccion que se esta modificando para generar el conflicto
 
 python -m app.cli add "Tarea" "Hacer el trabajo 2"
 
