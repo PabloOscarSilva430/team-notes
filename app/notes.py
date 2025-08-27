@@ -21,7 +21,10 @@ def add_note(title,body):
 # Issue #5 Pruebas (Dev C)
 # Pruebas mínimas de add_note y list_notes con pytest.
 # Branch/PR feature/5-tests.
+fix/addnote
 #Pequeño bug
+
+develop
 
 
 def list_notes():
@@ -30,4 +33,8 @@ def find_notes():
     pass
 
 def delete_notes():
+fix/addnote
     pass
+
+    pass
+develop
